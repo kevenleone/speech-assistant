@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "/Users/keven.dos.s.leone/.local/share/virtualenvs/speech-assistant-2o_IdgsR/bin/python",
+  "python.linting.prospectorEnabled": false,
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true
+}
